@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/boop.wav-b4af20277808399b9fc19af48c57ab32.sample"
+
+[deps]
+
+source_file="res://Assets/boop.wav"
+dest_files=[ "res://.import/boop.wav-b4af20277808399b9fc19af48c57ab32.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

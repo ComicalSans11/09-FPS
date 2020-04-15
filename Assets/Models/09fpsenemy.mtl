@@ -1,0 +1,12 @@
+# Blender MTL File: '09fpsenemy.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 538.048658
+Ka 1.000000 1.000000 1.000000
+Kd 0.377687 0.079455 0.098800
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
