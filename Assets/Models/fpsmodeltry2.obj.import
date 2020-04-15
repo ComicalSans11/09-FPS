@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fpsmodeltry2.obj-a830bc29851d6a3cb304826a033d5629.mesh"
+
+[deps]
+
+files=[ "res://.import/fpsmodeltry2.obj-a830bc29851d6a3cb304826a033d5629.mesh" ]
+
+source_file="res://Assets/Models/fpsmodeltry2.obj"
+dest_files=[ "res://.import/fpsmodeltry2.obj-a830bc29851d6a3cb304826a033d5629.mesh", "res://.import/fpsmodeltry2.obj-a830bc29851d6a3cb304826a033d5629.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
